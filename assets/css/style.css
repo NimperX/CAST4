@@ -8,3 +8,12 @@
 .main-logo {
     width: 170px;
 }
+
+.house-logo {
+    width: 200px;
+    height: auto;
+}
+
+.text-center {
+    text-align: center !important;
+}
