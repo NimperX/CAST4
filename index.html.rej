@@ -1,0 +1,18 @@
+diff a/index.html b/index.html	(rejected hunks)
+@@ -9,8 +9,16 @@
+     <meta name="description" content="Cast4 official website">
+     <meta name="keywords" content="cast4, rotaractmora, refraction">
+     <link rel="stylesheet" href="assets/css/main.css">
++<<<<<<< HEAD
+     <link rel="stylesheet" href="assets/css/style.css">
+     <link rel="icon" href="assets/img/hogwarts.png">
++=======
++<<<<<<< HEAD
++=======
++    <link rel="stylesheet" href="assets/css/style.css">
++    <link rel="icon" href="assets/img/hogwarts.png">
++>>>>>>> dev
++>>>>>>> bfcc8beb185375612aadf7aee7a32832d83b45d9
+ </head>
+ 
+ <body>
