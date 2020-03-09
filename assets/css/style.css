@@ -4,3 +4,30 @@
     font-weight: normal;
     font-style: normal;
 }
+
+.main-logo {
+    width: 170px;
+}
+
+.house-logo {
+    width: 200px;
+    height: auto;
+}
+
+.text-center {
+    text-align: center !important;
+}
+
+.chart-container {
+    background-color: rgba(255, 255, 255, 0.5);
+    border-radius: 50px;
+    width: 100%;
+    height: 510px;
+}
+
+#chartdiv {
+    width: 100%;
+    height: 500px;
+    position: absolute;
+    left: -75px;
+}
