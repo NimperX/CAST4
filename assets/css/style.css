@@ -48,6 +48,12 @@
     width: 280px;
 }
 
+.contact-title {
+    position: absolute;
+    left: 0px;
+    font-size: 61px;
+}
+
 @media(max-width:400px) {
     .contact--lockup .modal {
         background-color: transparent;
@@ -64,5 +70,11 @@
     .about-logo {
         width: 400px;
         height: auto;
+    }
+}
+
+@media(max-width:925px) {
+    .contact-title {
+        display: none;
     }
 }
