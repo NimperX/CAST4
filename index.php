@@ -159,10 +159,10 @@
                             <div class="contact">
                                 <div class="contact--lockup">
                                     <h1 class="contact-title">Highlights</h1>
-                                    <div class="modal">
+                                    <!-- <div class="modal">
                                         <script src="https://apps.elfsight.com/p/platform.js" defer></script>
                                         <div class="elfsight-app-23f86f9d-9171-4430-94ce-166efe2178ce"></div>
-                                    </div>
+                                    </div> -->
                                 </div>
                             </div>
                         </li>
